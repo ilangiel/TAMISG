@@ -1,7 +1,7 @@
 """
 TAMISG: A Metaheuristic Algorithm to Face the Graph Coloring Problem
 =====================================================================
-Reference: Guzmán-Ponce et al. (2020). MICAI 2020, Chapter 17,
+Reference: Guzmán-Ponce et al. (2020). HAIS 2020, Chapter 17,
            Springer LNAI 12469, pp. 196–208.
 
 This demo implements the TAMISG algorithm which combines:
