@@ -1,6 +1,6 @@
 # TAMISG: Graph Coloring via MIS + Tabu Search
 
-> **Article:** Guzmán-Ponce, A., et al. (2020). *A Metaheuristic Algorithm to Face the Graph Coloring Problem*. **MICAI 2020**, Springer LNAI 12469, pp. 196–208. [DOI: 10.1007/978-3-030-61705-9_17](https://doi.org/10.1007/978-3-030-61705-9_17)
+> **Article:** Guzmán-Ponce, A., et al. (2020). *A Metaheuristic Algorithm to Face the Graph Coloring Problem*. **HAIS 2020**, Springer LNAI 12469, pp. 196–208. [DOI: 10.1007/978-3-030-61705-9_17](https://doi.org/10.1007/978-3-030-61705-9_17)
 
 ## 📖 Algorithm Overview
 
